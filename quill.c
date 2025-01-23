@@ -88,7 +88,7 @@ struct editorSyntax {
   int flags;
 };
 
-/*** filetypes ***/
+/* file types */
 char *C_HL_extensions[] = { ".c", ".h", ".cpp", NULL };
 char *C_HL_keywords[] = {
   "switch", "if", "while", "for", "break", "continue", "return", "else",

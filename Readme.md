@@ -18,3 +18,6 @@ Move the executable to */usr/bin*
    ./quill <filename>
 ```
 
+## Demo
+
+![Demo GIF](demo.gif)
